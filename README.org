@@ -1,0 +1,10 @@
+* random-uuid
+
+Provides an efficient implementation of RFC-4122 UUID version 4.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mfiano/random-uuid.git   |
+| commit  | 7178232  |
+| systems | random-uuid |
+|---------+-------------------------------------------|
+
